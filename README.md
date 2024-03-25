@@ -27,6 +27,8 @@ Overall, this code creates a functional To-Do List application that allows users
 
 
         /*Weather Forecast Documentation*/
+
+        
 This HTML, CSS, and JavaScript code creates a simple weather application that allows users to search for weather information by city name. Here's how it works:
 
 HTML:
